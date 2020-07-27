@@ -10,6 +10,7 @@ class Pass < Formula
     cellar :any_skip_relocation
     rebuild 2
     sha256 "8130755986b8124ead30b7444bbab1f5b12b5481ddf914a310e221fdda736eb3" => :catalina
+    sha256 "8130755986b8124ead30b7444bbab1f5b12b5481ddf914a310e221fdda736eb3" => :bigsur
     sha256 "8130755986b8124ead30b7444bbab1f5b12b5481ddf914a310e221fdda736eb3" => :mojave
     sha256 "8130755986b8124ead30b7444bbab1f5b12b5481ddf914a310e221fdda736eb3" => :high_sierra
   end
